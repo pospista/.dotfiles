@@ -13,7 +13,7 @@ Current features included in the ./bin/linux.sh script:
 - Creates the .TRASH directory in the home directory 
 - Changes the name of .vimrc to .bup_vimrc if it exists 
 - Redirects the contents of etc/vimrc to the .vimrc file in the home directory 
-- Adds source ~/.dotfile/etc/bashrc_custom to end of .bashrc file in home directory 
+- Adds source ~/.dotfiles/etc/bashrc_custom to end of .bashrc file in home directory 
 To execute, run the make linux command.
 
 Cleaning: 
