@@ -1,5 +1,3 @@
-.dotfiles 
-
 This repository contains my bin (cleanup.sh and linux.sh scripts), etc (bashrc_custom and linux.sh) scripts, a Makefile, and .gitignore. 
 
 The .gitignore file tells git to ignore the files and directories of .DS_STORE and linuxsetup.log to ensure they are not pushed to Github. 
